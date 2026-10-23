@@ -1,0 +1,4 @@
+CREATE DATABASE IF NOT EXISTS music_streaming_db;
+CREATE DATABASE IF NOT EXISTS food_delivery_db;
+
+SHOW DATABASES;
